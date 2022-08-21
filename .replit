@@ -1,2 +1,5 @@
 language = "undefined"
 run = ""
+
+[nix]
+channel = "stable-22_05"
